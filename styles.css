@@ -118,4 +118,17 @@ figcaption {
     text-align: center;
 }
 
+/*
+
+This is optional to add smooth scrolling - 
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+*/
+
 
