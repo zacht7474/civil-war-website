@@ -113,4 +113,9 @@ body {
   text-decoration: none; /* optional: removes underline */
 }
 
+figcaption {
+    font-size: 12px;
+    text-align: center;
+}
+
 
